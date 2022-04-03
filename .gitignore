@@ -30,3 +30,7 @@
 *.exe
 *.out
 *.app
+
+build
+hw/pcb/fancy-clock
+hw/pcb/fancy-clock/fancy-clock-backups
